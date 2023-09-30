@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/CodeAlpha_exploreWonders/static/css/main.be3d5a71.css",
+    "main.js": "/CodeAlpha_exploreWonders/static/js/main.2936748c.js",
+    "static/js/787.b5fd036d.chunk.js": "/CodeAlpha_exploreWonders/static/js/787.b5fd036d.chunk.js",
+    "static/media/hyderabad.jpg": "/CodeAlpha_exploreWonders/static/media/hyderabad.e0147e05eca3f3f1e389.jpg",
+    "static/media/jaipur.jpg": "/CodeAlpha_exploreWonders/static/media/jaipur.298b89d542a3225d4ef7.jpg",
+    "static/media/Shimla.jpg": "/CodeAlpha_exploreWonders/static/media/Shimla.4df9acfebed7311b082e.jpg",
+    "static/media/pondicherry.webp": "/CodeAlpha_exploreWonders/static/media/pondicherry.bf0f9e34fdd8e96de372.webp",
+    "static/media/goa.jpg": "/CodeAlpha_exploreWonders/static/media/goa.2ae92482bba2a840e399.jpg",
+    "static/media/delhi.jpg": "/CodeAlpha_exploreWonders/static/media/delhi.5aca97eae15d3a11cb67.jpg",
+    "static/media/mumbai.jpg": "/CodeAlpha_exploreWonders/static/media/mumbai.e12ce24839873118280f.jpg",
+    "static/media/kolkata.jpg": "/CodeAlpha_exploreWonders/static/media/kolkata.86cdd026b80dc27a5937.jpg",
+    "static/media/nanital.jpg": "/CodeAlpha_exploreWonders/static/media/nanital.b4f0a4049a375e561367.jpg",
+    "static/media/Bangalore.jpg": "/CodeAlpha_exploreWonders/static/media/Bangalore.4f94cb96e617b654dc3f.jpg",
+    "static/media/logo.svg": "/CodeAlpha_exploreWonders/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CodeAlpha_exploreWonders/index.html",
+    "main.be3d5a71.css.map": "/CodeAlpha_exploreWonders/static/css/main.be3d5a71.css.map",
+    "main.2936748c.js.map": "/CodeAlpha_exploreWonders/static/js/main.2936748c.js.map",
+    "787.b5fd036d.chunk.js.map": "/CodeAlpha_exploreWonders/static/js/787.b5fd036d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be3d5a71.css",
+    "static/js/main.2936748c.js"
+  ]
+}
