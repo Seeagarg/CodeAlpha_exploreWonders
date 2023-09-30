@@ -14,7 +14,7 @@ function Footer() {
       <div className=' text-black' style={{backgroundImage:"url('https://img.freepik.com/free-photo/breathtaking-shot-deep-blue-ocean-mountain-range-dark-cloudy-day_181624-12585.jpg')",height:"70vh",backgroundRepeat:"no-repeat",backgroundSize:"cover",objectFit:"contain"}}>
 
 <footer className="container py-5">
-<Image src="https://cdn.gencraft.com/prod/user/a325e320-f604-42ea-9195-8f04f6464996/62d2857e-d91a-4dbf-9170-9ac6953397d9/images/image0_0.jpg?Expires=1695389580&Signature=e3rk4sJgeOb-I7UeWrv9z9M5P8RSIhLGp6SzAwjKGTuu0hQ5S2bU-6v4q2rCccy2vyMv3gEtZQBnEdRYKIS0KWgLUBxhvoDcgdIg~xduU7b2PVBOrWHXWK7XiI7JapYajKFUw-DwzXR-fRaYHzMGOzPgl~iGnzx896SPe6Ae~TSgxWhHptXNImAeQz-8hoBZ56NU9T0sGf7W5tubvPubRuaosqSAfQMn56XsDc-Cu3dYTrpAyVDr9xzBHU94dNeT8vFmoGR8Mt2iHrqMc~I0RjqEDpCgcY7yeR1N2EoqWMuWGDztTv0DyPVP49oSdAmcEUWeZzNHxlsXfW9EtQCrIA__&Key-Pair-Id=K3RDDB1TZ8BHT8" alt="....." style={{height:"120px",width:"120px",borderRadius:"50%",margin:"10px"}}/>
+<Image src="https://img.freepik.com/fonts/public/323/conversions/Explore-Wonders-preview.jpg" alt="....." style={{height:"120px",width:"120px",borderRadius:"50%",margin:"10px"}}/>
 {/* <img src="https://e1.pxfuel.com/desktop-wallpaper/251/999/desktop-wallpaper-nature-editing-background-best-editing.jpg" alt="" /> */}
 <span className='fs-1 fw-bold'>Explore Wonders</span>
 <div className="row p-4" style={{borderTop:"1px solid white"}}>
