@@ -1,0 +1,52 @@
+.main-box{
+    background-color: rgb(238, 238, 231);
+   
+    margin: 2%;
+}
+.TDI{
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+
+.Pic-container{
+    display: flex;
+    gap: 100px;
+    justify-content: space-between;
+    width: 80%;   
+    margin-left: 10%;
+    margin-right: 5%;
+}
+
+.Place-item{
+    border-radius: 10px;
+   justify-content: center;
+   padding: 15px;
+    display:inline-block;
+    cursor: pointer;   
+    box-shadow: 5px 5px 5px 5px rgb(228, 237, 240);
+    /* border: 2px solid green; */
+    /* width: 80%; */
+}
+.Place-item:hover{
+    box-shadow: 5px 5px 5px 5px rgb(139, 152, 156); 
+}
+.Place-item img{
+        width: 180px;
+        height: 180px;
+        object-fit: cover;
+        border-radius: 50%; 
+        padding: 3%; 
+}
+.PName{
+    font-size: 1.5rem;
+    text-align:center;
+    font-weight: bolder;
+}
+/* .arrow-container{
+    border: 2px solid red;
+    height: 100%;
+} */
+
+
+
